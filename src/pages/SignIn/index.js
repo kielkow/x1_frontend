@@ -32,7 +32,7 @@ export default function SignIn() {
       <img src={logo} alt="X1" />
 
       <Form schema={schema} onSubmit={handleSubmit}>
-        <label>E-MAIL</label>
+        <label>E-MAIL Teste de Integracao</label>
         <Input name="email" type="email" placeholder="Your e-mail..." />
 
         <label>PASSWORD</label>
